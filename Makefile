@@ -8,6 +8,7 @@ DFLAGS = -D${MODE} DEPS=${DEFINED_EPS}
 SOURCE = src
 TARGET = build
 CC = clang++	
+FILE = main
 
 clear:
 	@rm -rf build/*
