@@ -1,6 +1,5 @@
 #include<iostream>
 #include <omp.h>
-#include <WinAPI>
 
 using namespace std;
 
